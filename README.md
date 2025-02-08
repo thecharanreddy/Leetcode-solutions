@@ -5,3 +5,5 @@
 4.[169-Majority Element](https://leetcode.com/problems/majority-element/description/)-    Easy -   [sol](https://github.com/thecharanreddy/Leetcode-solutions/blob/main/169_The_Majority_element.java)    
 5.[004-Median of two sorted arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)-    Hard -   [sol](https://github.com/thecharanreddy/Leetcode-solutions/blob/main/004_Median_of_Two_Sorted_Arrays.java)  
 6.[021-Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)-    Easy -   [sol](https://github.com/thecharanreddy/Leetcode-solutions/blob/main/021_Merge_Two_Sorted_Lists.java)  
+7.[015-3 Sum](https://leetcode.com/problems/3sum/description/)-    Medium -   [sol](https://github.com/thecharanreddy/Leetcode-solutions/blob/main/015_3_Sum.java)  
+
