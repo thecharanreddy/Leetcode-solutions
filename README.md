@@ -7,5 +7,7 @@
 6.[021-Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)-    Easy -   [sol](https://github.com/thecharanreddy/Leetcode-solutions/blob/main/021_Merge_Two_Sorted_Lists.java)  
 7.[015-3 Sum](https://leetcode.com/problems/3sum/description/)-    Medium -   [sol](https://github.com/thecharanreddy/Leetcode-solutions/blob/main/015_3_Sum.java)  
 8.[016-3 Sum Closest](https://leetcode.com/problems/3sum-closest/description/)-    Medium -   [sol](https://github.com/thecharanreddy/Leetcode-solutions/blob/main/016_3Sum_Closest.java)   
-9.[066-Plus One](https://leetcode.com/problems/plus-one/description/)-    Easy -   [sol](https://github.com/thecharanreddy/Leetcode-solutions/blob/main/066_Plus_One.java)   
-10.[016-3 Zigzag_Conversion](https://leetcode.com/problems/zigzag-conversion/)-    Medium -   [sol](https://github.com/thecharanreddy/Leetcode-solutions/blob/main/006_ZigZag_Conversion.java)   
+9.[058-3 Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)-    Easy -   [sol](https://github.com/thecharanreddy/Leetcode-solutions/blob/main/058_Length_0f_Last_Word.java)  
+10.[066-Plus One](https://leetcode.com/problems/plus-one/description/)-    Easy -   [sol](https://github.com/thecharanreddy/Leetcode-solutions/blob/main/066_Plus_One.java)   
+11.[016-3 Zigzag_Conversion](https://leetcode.com/problems/zigzag-conversion/)-    Medium -   [sol](https://github.com/thecharanreddy/Leetcode-solutions/blob/main/006_ZigZag_Conversion.java)   
+   
