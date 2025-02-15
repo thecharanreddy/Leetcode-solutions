@@ -10,5 +10,6 @@
 9.[058-Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)-    Easy -   [sol](https://github.com/thecharanreddy/Leetcode-solutions/blob/main/058_Length_0f_Last_Word.java)  
 10.[066-Plus One](https://leetcode.com/problems/plus-one/description/)-    Easy -   [sol](https://github.com/thecharanreddy/Leetcode-solutions/blob/main/066_Plus_One.java)   
 11.[016-Zigzag_Conversion](https://leetcode.com/problems/zigzag-conversion/)-    Medium -   [sol](https://github.com/thecharanreddy/Leetcode-solutions/blob/main/006_ZigZag_Conversion.java)   
-12.[2215-Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/description/)-    Easy -   [sol](https://github.com/thecharanreddy/Leetcode-solutions/blob/main/2215_Find_the_difference_of_two_arrays.java)  
-13.[011-Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)-    Medium -   [sol](https://github.com/thecharanreddy/Leetcode-solutions/blob/main/011_Container_with_most_water.java)  
+12.[242-Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)-   Easy  -   [sol](https://github.com/thecharanreddy/Leetcode-solutions/blob/main/242_Valid_Anagram.java)  
+13.[2215-Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/description/)-    Easy -   [sol](https://github.com/thecharanreddy/Leetcode-solutions/blob/main/2215_Find_the_difference_of_two_arrays.java)  
+14.[011-Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)-    Medium -   [sol](https://github.com/thecharanreddy/Leetcode-solutions/blob/main/011_Container_with_most_water.java)  
