@@ -1,7 +1,7 @@
 // 875. Koko Eating Bananas
 // https://leetcode.com/problems/koko-eating-bananas/description/
 
-// Intiution :
+// Intuition :
 // k should lie between 1 and max(arr). Because the minimum value of k can be '1' in best case and 
 // the maximum value can be 'max element in the array' i.e. 'largest pile of bananas'.
 // Hence, we can perform Binary Search between (1,max) taking left = 0 and right = max,
